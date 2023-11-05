@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me :
-📧 rulercosta@outlook.com
+🔗📧 rulercosta@outlook.com
+
 🔗📸 [rulercosta @instagram](https://www.instagram.com/rulercosta/)
 
 🔗🤖 [rulercosta @reddit](https://www.reddit.com/user/rulercosta/)
